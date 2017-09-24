@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "title": "I had a favorite dress",
+            "author": "Ashburn, Boni",
+            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=334954",
+            "isbn": "9781419700163"
+        },
+        {
+            "title": "Isabel's car wash",
+            "author": "Bair, Sheila",
+            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=259326",
+            "isbn": "9780807536520"
+        },
+        {
+            "title": "The dance of the violin",
+            "author": "Stinson, Kathy",
+            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=529040",
+            "isbn": "9781554519002"
+        }
+    ]
+}
