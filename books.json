@@ -8,61 +8,51 @@
         {
             "title": "I had a favorite dress",
             "author": "Ashburn, Boni",
-            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=334954",
             "isbn": "9781419700163"
         },
         {
             "title": "Isabel's car wash",
             "author": "Bair, Sheila",
-            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=259326",
             "isbn": "9780807536520"
         },
         {
             "title": "A house is a house for me",
             "author": "Hoberman, Mary Ann",
-            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=392929",
             "isbn": "0140503943"
         },
         {
             "title": "The meanest birthday girl",
             "author": "Schneider, Josh",
-            "wcls": "http://catalog.wcls.lib.ar.us/polaris/search/title.aspx?ctx=1.1033.0.0.6&cn=286404",
             "isbn": "9780547838144"
         },
         {
             "title": "The Dancing Man",
             "author": "Bornstein, Ruth",
-            "wcls": "https://catalog.wcls.lib.ar.us/polaris/search/title.aspx?ctx=1.1033.0.0.6&cn=29882",
             "isbn": "0816432147"
         },
         {
             "title": "The Old Woman Who Named Things",
             "author": "Rylant, Cynthia",
-            "faylib": "https://www.faylib.org/eds/detail?db=cat05595a&an=fay.473546",
             "isbn": "9781442011052"
         },
         {
             "title": "The Yes",
             "author": "Bee, Sarah",
-            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=445490",
             "isbn": "9780802854490"
         },
         {
             "title": "The dance of the violin",
             "author": "Stinson, Kathy",
-            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=529040",
             "isbn": "9781554519002"
         },
         {
             "title": "The very hungry caterpillar",
             "author": "Carle, Eric",
-            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=1.1033.0.0.1&pos=4",
             "isbn": "9780399208539"
         },
         {
             "title": "Charlotte's web",
             "author": "White, E. B.",
-            "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=1.1033.0.0.1&pos=6",
             "isbn": "9780060263850"
         }
     ]
