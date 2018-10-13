@@ -52,6 +52,12 @@
             "author": "Stinson, Kathy",
             "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=529040",
             "isbn": "9781554519002"
+        },
+        {
+            "title": "The Name of the Wind",
+            "author": "Patrick Rothfuss",
+            "faylib": "https://www.faylib.org/eds/detail?db=cat05595a&an=fay.399192",
+            "isbn": "9780756404741"
         }
     ]
 }
