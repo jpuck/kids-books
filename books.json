@@ -62,6 +62,18 @@
             "author": "Stinson, Kathy",
             "faylib": "http://catalog.faylib.org/polaris/search/title.aspx?ctx=3.1033.0.0.1&cn=529040",
             "isbn": "9781554519002"
+        },
+        {
+            "title": "The Little Prince",
+            "author": "Antoine de Saint-Exupéry",
+            "faylib": "http://catalog.faylib.org/polaris/search/searchresults.aspx?ctx=3.1033.0.0.1&type=Default&term=little%20prince&by=KW&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=1",
+            "isbn": "9780152023980~"
+        },
+        {
+            "title": "James and the giant peach",
+            "author": "J Dahl, Roald",
+            "faylib": "http://catalog.faylib.org/polaris/search/searchresults.aspx?ctx=3.1033.0.0.1&type=Keyword&term=james%20and%20the%20giant%20peach&by=KW&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=2",
+            "isbn": "9780142410363~"
         }
     ]
 }
